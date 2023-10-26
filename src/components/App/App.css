@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.gallery-image {
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 5px solid rgb(42, 42, 42);
+}
+
+#container {
+  margin: 20px;
+}
+
